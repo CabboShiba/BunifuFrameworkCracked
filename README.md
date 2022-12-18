@@ -9,6 +9,8 @@ Version: 6.0.2
 
 Tested with: .NET Framework 4.8.1
 
+Working as 18/12/2022.
+
 # How to use it
 
 Replace the new Bunifu.UI.WinForms.DLL in your Directory:
