@@ -20,7 +20,7 @@ namespace BunifuAutoPatcher
             {
                 Console.Title = $"[{DateTime.Now}] BunifuAutoPatcher by https://github.com/CabboShiba";
                 string Patched = args[0];
-                string Original = Path.GetDirectoryName(Patched) + @"Bunifu.UI.WinForms-Original.dll";
+                string Original = Path.GetDirectoryName(Patched) + @"\Bunifu.UI.WinForms-Original.dll";
                 File.Copy(Patched, Original, true);
                 ModuleContext modCtx = ModuleDef.CreateModuleContext();
                 ModuleDefMD module = ModuleDefMD.Load(Original, modCtx);
