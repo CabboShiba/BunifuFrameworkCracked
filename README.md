@@ -15,7 +15,7 @@ Working as 05/04/2022.
 
 First of all, download [BunifuAutoPatcher here](https://github.com/CabboLeak/BunifuFrameworkCracked/releases/download/BunfuAutoPatcher/BunifuAutoPatcher.zip).
 
-After Drag%Drop Bunifu.UI.WinForms.dll into the program.
+After Drag&Drop Bunifu.UI.WinForms.dll into the program.
 
 You can find the .DLL here:
 %ProjectName%\packages\Bunifu.UI.WinForms.6.1.0\lib\net40\
