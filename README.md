@@ -15,10 +15,20 @@ Working as 05/04/2022.
 
 First of all, download [BunifuAutoPatcher here](https://github.com/CabboLeak/BunifuFrameworkCracked/releases/download/BunfuAutoPatcher/BunifuAutoPatcher.zip).
 
-After Drag&Drop Bunifu.UI.WinForms.dll into the program.
+After Drag&Drop Bunifu.UI.WinForms.dll into the program. After, it will automatically remove every trial and limitation from Bunifu.
 
 You can find the .DLL here:
 %ProjectName%\packages\Bunifu.UI.WinForms.6.1.0\lib\net40\
+
+Demonstration:
+
+![image](https://user-images.githubusercontent.com/104633990/230183008-bc3724c0-ae79-4926-aa93-44779a8d3e6b.png)
+
+# Credits
+
+Please, if you want to share this project, gives also the credits to me.
+
+This is really important for me, thank you. Hope you enjoy.
 
 # Do you want to contact me?
 
