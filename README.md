@@ -5,17 +5,20 @@ Bunifu .NET Framework cracked by Cabbo.
 
 Latest Bunifu.UI.WinForms.DLL cracked by Cabbo.
 
-Version: 6.0.2
+Version: 6.1.0
 
 Tested with: .NET Framework 4.8.1
 
-Working as 18/12/2022.
+Working as 05/04/2022.
 
 # How to use it
 
-Replace the new Bunifu.UI.WinForms.DLL in your Directory:
+First of all, download [BunifuAutoPatcher here](https://github.com/CabboLeak/BunifuFrameworkCracked/releases/download/BunfuAutoPatcher/BunifuAutoPatcher.zip).
 
-ProjectName\packages\Bunifu.UI.WinForms.6.0.2\lib\net40\Bunifu.UI.WinForms.DLL
+After Drag%Drop Bunifu.UI.WinForms.dll into the program.
+
+You can find the .DLL here:
+%ProjectName%\packages\Bunifu.UI.WinForms.6.1.0\lib\net40\
 
 # Do you want to contact me?
 
